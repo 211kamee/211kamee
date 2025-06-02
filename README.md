@@ -11,14 +11,14 @@
 
 <!-- -   🔭 I’m currently not working. -->
 
--   🔭 I’m currently selected for WILP Program @Wipro.
--   🌱 I’m currently learning, RustLang, Next.js, and Advance C on my own.
--   👯 I’m looking to collaborate on Operating System Projects after I get relevent skills.
--   🤔 I’m looking for help with Low Level Programming (like C and Assembly), and AI/ML.
+-   🔭 Currently selected for WILP Program @Wipro.
+-   🌱 Learning, RustLang, Next.js, and Advance C on my own.
+-   👯 Open to collaborate on Operating System Projects after I get relevent skills.
+-   🤔 Goal to learn Low Level Programming (like C and Assembly), and AI/ML [Would appreciate help].
 -   💬 Ask me about anything, I am open to help as much possible from my side.
--   📫 You to reach me through Instagram(Preferred), Discord, E-mail, and Linkedin.
+-   📫 You can reach me through Instagram(Preferred), Discord, E-mail, and Linkedin.
 -   😄 Pronouns: [He/him].
--   ⚡ General Details: Born on 2004 from New Delhi, India.
+-   ⚡ General Details: Born on 2004 based New Delhi, India.
 
 <br />
 
