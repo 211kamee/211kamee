@@ -17,7 +17,6 @@
 -   🤔 Goal to learn Low Level Programming (like C and Assembly), and AI/ML [Would appreciate help].
 -   💬 Ask me about anything, I am open to help as much possible from my side.
 -   📫 You can reach me through Instagram(Preferred), Discord, E-mail, and Linkedin.
--   😄 Pronouns: [He/him].
 -   ⚡ General Details: Born on 2004 based New Delhi, India.
 
 <br />
