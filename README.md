@@ -27,6 +27,7 @@
 
 ###
 
+<a href="#"> 
 <div align="center">
 <h2 align='center'>
   <strong> Languages, Tools and Technologies: </strong>
@@ -83,6 +84,7 @@
   </tr>
 </table>
 </div>
+</a>
 <br />
 
 ###
