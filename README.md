@@ -27,7 +27,6 @@
 
 ###
 
-<a href="#"> 
 <div align="center">
 <h2 align='center'>
   <strong> Languages, Tools and Technologies: </strong>
@@ -36,55 +35,78 @@
 <table>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" /></td>
+    <td>
+<a href="#"> 
+	    <img height=40 src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" />
+</a>
+</td>
   </tr>
   <tr>
     <td><strong>Frontend Development</strong></td>
-    <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,vite,react,bootstrap,tailwind&theme=dark" /></td>
+    <td>
+<a href="#"> 
+	    <img height=40 src="https://skillicons.dev/icons?i=html,css,js,vite,react,bootstrap,tailwind&theme=dark" /></td>
+</a>
   </tr>
   <tr>
     <td><strong>Backend Development</strong></td>
     <td>
+<a href="#"> 
       <img height=40 src="https://skillicons.dev/icons?i=js,ts,nodejs,express&theme=dark" /> 
+</a>
     </td>
   </tr>
   <tr>
   <tr>
     <td><strong>Database Technologies</strong></td>
-    <td><img height=40 src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" /></td>
+    <td>
+<a href="#"> 
+	    <img height=40 src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" /></td>
+</a>
   </tr>
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
+<a href="#"> 
       <img height=40 src="https://skillicons.dev/icons?i=react,vite,nextjs&theme=dark" height="40" />
       <img height=35 src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" alt="socketio logo" />
+</a>
     </td>
   </tr>
   <tr>
     <td><strong>Cloud Deployment</strong></td>
-    <td><img height=40 src="https://skillicons.dev/icons?i=aws,cloudflare,firebase&theme=dark" /></td>
+    <td>
+<a href="#"> 
+	    <img height=40 src="https://skillicons.dev/icons?i=aws,cloudflare,firebase&theme=dark" /></td>
+</a>
   </tr>
   <tr>
     <td><strong>Hosting Services</strong></td>
     <td>
+<a href="#"> 
       <img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify,cloudflare&theme=dark" />
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+</a>
     </td>
   </tr>
   <tr>
     <td><strong>Developer Tools</strong></td>
-    <td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /></td>
+    <td>
+<a href="#"> 
+	    <img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /></td>
+</a>
   </tr>
   <tr>
     <td><strong>Operating System</strong></td>
     <td>
+<a href="#"> 
         <img height=40 src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />  
         <img height=40 src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> 
+</a>
     </td>
   </tr>
 </table>
 </div>
-</a>
 <br />
 
 ###
@@ -92,9 +114,11 @@
 <div align="center">
 	
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="#"> 
+	![](https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+	![](https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false)<br/>
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</a>
 
 </div>
 <br />
