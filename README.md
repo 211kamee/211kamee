@@ -5,7 +5,9 @@
 <img align="right" height="240" src="https://img2.joyreactor.com/pics/post/gif-pixel-art-girl-1474443.gif" />
 
 <div align="left">
-		  <img src="https://img.shields.io/badge/Portfolio-211kamee.pages.dev-blue?style=for-the-badge" /> 
+	<a href="https://kamee.pages.dev"> 
+		  <img src="https://img.shields.io/badge/Portfolio-kamee.pages.dev-blue?style=for-the-badge" /> 
+	</a>
 		  <img src="https://komarev.com/ghpvc/?username=211kamee&label=Profile+views&color=blue&style=for-the-badge&abbreviated=true" /> 
 </div>
 
