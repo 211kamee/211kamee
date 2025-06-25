@@ -5,10 +5,12 @@
 <img align="right" height="240" src="https://img2.joyreactor.com/pics/post/gif-pixel-art-girl-1474443.gif" />
 
 <div align="left">
-	<a href="https://kamee.pages.dev"> 
+	<a href="https://kamee.pages.dev" target="_blank"> 
 		  <img src="https://img.shields.io/badge/Portfolio-kamee.pages.dev-blue?style=for-the-badge" /> 
 	</a>
+	<a href="#"> 
 		  <img src="https://komarev.com/ghpvc/?username=211kamee&label=Profile+views&color=blue&style=for-the-badge&abbreviated=true" /> 
+	</a>
 </div>
 
 <!-- -   🔭 I’m currently not working. -->
