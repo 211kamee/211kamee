@@ -68,7 +68,7 @@
     <td><strong>Frameworks</strong></td>
     <td>
 <a href="#"> 
-      <img height=40 src="https://skillicons.dev/icons?i=react,vite,nextjs&theme=dark" height="40" />
+      <img height=40 src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" height="40" />
       <img height=35 src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" alt="socketio logo" />
 </a>
     </td>
