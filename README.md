@@ -45,7 +45,7 @@
     <td><strong>Frontend Development</strong></td>
     <td>
 <a href="#"> 
-	    <img height=40 src="https://skillicons.dev/icons?i=html,css,js,vite,react,bootstrap,tailwind&theme=dark" /></td>
+	    <img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" /></td>
 </a>
   </tr>
   <tr>
