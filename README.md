@@ -111,32 +111,39 @@
 
 ###
 
+
 <div align="center">
-	
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&count_private=true)
 <br>
-![](https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false)
 
 </div>
 <br />
 
 ###
 
-<h2 align='center'>
+<h2 align="center">
 	<strong>Profiles:</strong>
 </h2>
 
-<div align="center">
-	<a href="https://instagram.com/211kamee" target="_blank">
-		<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-	</a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
+
+  <a href="https://instagram.com/211kamee" target="_blank">
+	<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="#" target="_blank">
+	<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+
+  </div>
 <br />
 
 ###
