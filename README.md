@@ -1,6 +1,6 @@
 <h2 align="left">Hello! I am Arpit✨ aka KaMee. [Web Developer]</h2>
 
-<hr>
+<!--  -->
 
 <img align="right" height="240" src="https://img2.joyreactor.com/pics/post/gif-pixel-art-girl-1474443.gif" />
 
@@ -13,6 +13,7 @@
 	</a>
 </div>
 <br />
+
 <!-- -   🔭 I’m currently not working. -->
 
 - 🔭 Currently selected for WILP Program @Wipro.
@@ -25,8 +26,7 @@
 
 <br>
 
-###
-
+<!--  -->
 <div align="center">
 <h2 align='center'>
   <strong> Languages, Tools and Technologies: </strong>
@@ -106,12 +106,14 @@
     </td>
   </tr>
 </table>
-</div>
+
 <br />
 
-###
+<!--  -->
 
-# GitHub Stats:
+<h2 align="center">
+	<strong>Github Stats:</strong>
+</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
@@ -121,8 +123,7 @@
 
 <br />
 
-###
-
+<!--  -->
 <h2 align="center">
 	<strong>Profiles:</strong>
 </h2>
@@ -141,8 +142,7 @@
 
 <br />
 
-###
-
+<!--  -->
 </div>
 
 <!--  -->
