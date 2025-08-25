@@ -12,7 +12,7 @@
 		  <img src="https://komarev.com/ghpvc/?username=211kamee&label=Profile+views&color=blue&style=for-the-badge&abbreviated=true" /> 
 	</a>
 </div>
-
+<br />
 <!-- -   🔭 I’m currently not working. -->
 
 -   🔭 Currently selected for WILP Program @Wipro.
@@ -23,7 +23,7 @@
 -   📫 You can reach me through Instagram(Preferred), Discord, E-mail, and Linkedin.
 -   ⚡ General Details: Born on 2004 based New Delhi, India.
 
-<br />
+<br>
 
 ###
 
@@ -114,9 +114,9 @@
 <div align="center">
 	
 # GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 <br />
