@@ -181,15 +181,15 @@
   </h2>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="languages_used"
   /><br />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=211kamee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=211kamee&theme=aura&hide_border=false&include_all_commits=true&count_private=true"
     alt=""
   /><br />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=midnight-purple&hide_border=false"
+    src="https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=aura&hide_border=false"
     alt=""
   /><br />
 
