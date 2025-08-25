@@ -185,7 +185,7 @@
     alt="languages_used"
   /><br />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=211kamee&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"
     alt=""
   /><br />
   <img
