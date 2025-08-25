@@ -189,7 +189,7 @@
     alt=""
   /><br />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false"
+    src="https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=midnight-purple&hide_border=false"
     alt=""
   /><br />
 
