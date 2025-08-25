@@ -1,6 +1,6 @@
 <h2 align="left">Hello! I am Arpit✨ aka KaMee. [Web Developer]</h2>
 
-###
+<hr>
 
 <img align="right" height="240" src="https://img2.joyreactor.com/pics/post/gif-pixel-art-girl-1474443.gif" />
 
@@ -15,13 +15,13 @@
 <br />
 <!-- -   🔭 I’m currently not working. -->
 
--   🔭 Currently selected for WILP Program @Wipro.
--   🌱 Learning, RustLang, Next.js, and Advance C on my own.
--   👯 Open to collaborate on Operating System Projects after I get relevent skills.
--   🤔 Goal to learn Low Level Programming (like C and Assembly), and AI/ML [Would appreciate help].
--   💬 Ask me about anything, I am open to help as much possible from my side.
--   📫 You can reach me through Instagram(Preferred), Discord, E-mail, and Linkedin.
--   ⚡ General Details: Born on 2004 based New Delhi, India.
+- 🔭 Currently selected for WILP Program @Wipro.
+- 🌱 Learning, RustLang, Next.js, and Advance C on my own.
+- 👯 Open to collaborate on Operating System Projects after I get relevent skills.
+- 🤔 Goal to learn Low Level Programming (like C and Assembly), and AI/ML [Would appreciate help].
+- 💬 Ask me about anything, I am open to help as much possible from my side.
+- 📫 You can reach me through Instagram(Preferred), Discord, E-mail, and Linkedin.
+- ⚡ General Details: Born on 2004 based New Delhi, India.
 
 <br>
 
@@ -111,17 +111,14 @@
 
 ###
 
-
-<div align="center">
-
 # GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=211kamee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=211kamee&theme=highcontrast&hide_border=false&count_private=true)
 <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=211kamee&theme=highcontrast&hide_border=false)
 
-</div>
 <br />
 
 ###
@@ -129,7 +126,6 @@
 <h2 align="center">
 	<strong>Profiles:</strong>
 </h2>
-
 
   <a href="https://instagram.com/211kamee" target="_blank">
 	<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -143,9 +139,10 @@
 	<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 
-  </div>
 <br />
 
 ###
+
+</div>
 
 <!--  -->
