@@ -21,8 +21,7 @@
 <br />
 
 <ul>
-  <li>🔭 I’m currently not working.</li>
-  <li>🔭 Currently selected for WILP Program @Wipro.</li>
+  <li>🔭 I’m currently not employed.</li>
   <li>🌱 Learning, RustLang, Next.js, and Advance C on my own.</li>
   <li>
     👯 Open to collaborate on Operating System Projects after I get relevent
