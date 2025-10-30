@@ -38,7 +38,7 @@
     📫 You can reach me through Instagram(Preferred), Discord, E-mail, and
     Linkedin.
   </li>
-  <li>⚡ General Details: Born on 2004 based New Delhi, India.</li>
+  <li>⚡ General Details: DOB 2004, from India.</li>
 </ul>
 
 <br />
