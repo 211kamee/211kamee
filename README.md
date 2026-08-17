@@ -172,7 +172,7 @@
 
   <br />
 
-  <!--  -->
+  <!--  
 
   <h2 align="center">
     <strong>Github Stats:</strong>
@@ -191,7 +191,7 @@
     alt=""
   /><br />
 
-  <!--  -->
+  -->
   <h2 align="center">
     <strong>Profiles:</strong>
   </h2>
