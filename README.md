@@ -21,7 +21,7 @@
 <br />
 
 <ul>
-  <li>🌱 Learning, RustLang, Next.js, and Advance C on my own.</li>
+  <li>🌱 Learning and building on Flutter, Rust Lang, and Advance C on my own. </li>
   <li>
     👯 Open to collaborate on Operating System Projects after I get relevent
     skills.
